@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner;//hi hi
 
 public class TestThreadCheckArray {
 	public static void main(String[] args) {
