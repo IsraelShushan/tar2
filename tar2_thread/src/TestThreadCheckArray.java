@@ -22,7 +22,7 @@ public class TestThreadCheckArray {
 			thread1.start();
 			thread2.start();
 			try 
-			{
+			{//vefdvfddvdfvb
 				thread1.join();
 				thread2.join();
 			} 
@@ -31,9 +31,9 @@ public class TestThreadCheckArray {
 				e.printStackTrace();
 			}
 			if (!sd.getFlag())
-			{
+			{//vdfvfdfv
 				System.out.println("Sorry");
-				return;
+				return;//
 			}
 			System.out.println("Solution for b : " + sd.getB() + ",n = " + sd.getArray().length);
 			System.out.print("I:    ");
